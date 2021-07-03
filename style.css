@@ -1,5 +1,5 @@
 body{
-	background:#666;
+	background:#9efaee;
 	color:#fff;
 	font-family:arial;
 	line-height:1.4em;
@@ -25,7 +25,7 @@ ul{
 	color: cyan;
 }
 #container{
-	background: #333;
+	background: #153f32;
 	width:960px;
 	margin:30px auto;
 	overflow:hidden;
@@ -51,7 +51,7 @@ ul{
 
 #nav .active{
 	font-weight: bold;
-	color:rgb(238, 18, 18);
+	color:#181616;
 }
 
 #main{
